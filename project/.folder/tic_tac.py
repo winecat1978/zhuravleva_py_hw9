@@ -1,4 +1,4 @@
-# py C:\Users\mob19\py_hw9\project\.folder\main.py - запуск проги
+# py C:\Users\mob19\py_hw9\project\.folder\tic_tac.py - запуск проги
 
 from kivy.app import App
 from kivy.uix.boxlayout import BoxLayout
